@@ -1,6 +1,8 @@
 # Bank of Flatitron
   Bank of Flatitron is a React application that displays a list of the recent bank transactions, among other features.
 
+  Deployed @ https://cheery-syrniki-d564c9.netlify.app/
+
 ## Instructions
 
 For this project, I will be building out a React application that displays a list of your recent bank transactions, among other features

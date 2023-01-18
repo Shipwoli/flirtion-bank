@@ -3,6 +3,16 @@
 
   Deployed @ https://cheery-syrniki-d564c9.netlify.app/
 
+  ##Requirements
+    vs code
+    Node
+    react app
+
+  <b>Running This Application</b>
+    .Clone from app [Here] (git@github.com:Shipwoli/flirtion-bank.git)
+      . Run this command;-
+            npm install
+            npm start
 ## Instructions
 
 For this project, I will be building out a React application that displays a list of your recent bank transactions, among other features
@@ -102,3 +112,4 @@ Example Response:
 -See a table of all transactions.
 -Fill out and submit the form to add a new transaction. This should add the new transaction to the table *the new transaction does not have to be persisted to the backend*
 -Filter transactions by typing into the search bar. Only transactions with a description matching the search term should be shown in the transactions table.
+ Author: SAVIOUR KHALWALE

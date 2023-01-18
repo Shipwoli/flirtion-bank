@@ -19,7 +19,7 @@
 For this project, I will be building out a React application that displays a list of your recent bank transactions, among other features
 
 ##Api npoint
-https://api-test-7h6w.onrender.com/transactions"
+"https://api.npoint.io/6097ebd6df8cab7eee59/transactions"
 ## Setup
 After cloning the the project:, to your local machine:-
 1. Run `npm install` in your terminal.

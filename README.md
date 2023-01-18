@@ -11,6 +11,7 @@
   <b>Running This Application</b>
     .Clone from app [Here] (git@github.com:Shipwoli/flirtion-bank.git)
       . Run this command;-
+      install semantic ui for styling:  npm install semantic-ui-react semantic-ui-css
             npm install
             npm start
 ## Instructions
